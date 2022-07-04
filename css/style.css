@@ -12,8 +12,8 @@
 
 body{
   font-family: 'Oswald', sans-serif;
-
 }
+
 
 .main {
   display: flex;
@@ -23,7 +23,13 @@ body{
   align-items: center;
   /* padding: 0px 10px; */
   margin-bottom: 50px;
-
+  background-image: url("https://github.com/14HAK/pro1/blob/master/images/exp-bg.png?raw=true");
+  background-repeat: no-repeat;
+}
+.tain{
+  background-image: url("https://github.com/14HAK/pro1/blob/master/images/dream-bg.png?raw=true");
+  background-repeat: no-repeat;
+  background-position: top right;
 }
 .samed {
   width: 45%;
@@ -76,6 +82,7 @@ body{
   justify-content: space-around;
   /* align-items: center; */
   margin-bottom: 80px;
+
 }
 
 
